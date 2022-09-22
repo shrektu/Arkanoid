@@ -1,0 +1,71 @@
+﻿  ArkanoidGame.cpp
+E:\Dokumenty\CPP\MyProjects\ArkanoidGame\ArkanoidGame\ArkanoidGame.cpp(74,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\Dokumenty\CPP\MyProjects\ArkanoidGame\ArkanoidGame\ArkanoidGame.cpp(74,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\Dokumenty\CPP\MyProjects\ArkanoidGame\ArkanoidGame\ArkanoidGame.cpp(80,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\Dokumenty\CPP\MyProjects\ArkanoidGame\ArkanoidGame\ArkanoidGame.cpp(80,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\Dokumenty\CPP\MyProjects\ArkanoidGame\ArkanoidGame\ArkanoidGame.cpp(98,24): warning C4018: '<': signed/unsigned mismatch
+E:\Dokumenty\CPP\MyProjects\ArkanoidGame\ArkanoidGame\ArkanoidGame.cpp(100,28): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xmemory(682,68): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(829): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned int,unsigned int,unsigned int&,unsigned int&>(_Alloc &,_Objty *const ,unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<Block>,
+              _Ty=Block,
+              _Objty=Block
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(840): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned int,unsigned int,unsigned int&,unsigned int&>(_Alloc &,_Objty *const ,unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<Block>,
+              _Ty=Block,
+              _Objty=Block
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(816): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<unsigned int,unsigned int,unsigned int&,unsigned int&>(unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)' being compiled
+          with
+          [
+              _Ty=Block
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(822): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<unsigned int,unsigned int,unsigned int&,unsigned int&>(unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)' being compiled
+          with
+          [
+              _Ty=Block
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(902): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<unsigned int,unsigned int,unsigned int&,unsigned int&>(unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)' being compiled
+          with
+          [
+              _Ty=Block
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(904): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<unsigned int,unsigned int,unsigned int&,unsigned int&>(unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)' being compiled
+          with
+          [
+              _Ty=Block
+          ]
+E:\Dokumenty\CPP\MyProjects\ArkanoidGame\ArkanoidGame\ArkanoidGame.cpp(102): message : see reference to function template instantiation 'void std::vector<Block,std::allocator<Block>>::emplace_back<unsigned int,unsigned int,unsigned int&,unsigned int&>(unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xmemory(682,68): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+  Ball.cpp
+  Block.cpp
+  Platform.cpp
+  Generating Code...
+E:\Dokumenty\CPP\MyProjects\ArkanoidGame\ArkanoidGame\ArkanoidGame.cpp(56): warning C4715: 'collision_test': not all control paths return a value
+E:\Dokumenty\CPP\MyProjects\ArkanoidGame\ArkanoidGame\ArkanoidGame.cpp(29): warning C4715: 'collision_test': not all control paths return a value
+  ArkanoidGame.vcxproj -> E:\Dokumenty\CPP\MyProjects\ArkanoidGame\Debug\ArkanoidGame.exe
